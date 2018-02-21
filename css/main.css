@@ -1,0 +1,198 @@
+/*
+Misc
+*/
+img {
+	width: 100%;
+}
+
+* {
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+/*
+Body
+*/
+
+
+
+
+
+
+
+
+
+
+/*
+Header
+*/
+
+
+
+
+
+
+
+
+
+
+
+/*
+Nav
+*/
+
+.main_nav {
+	background-color: #0c2064;
+	padding: 40px 0 60px 0;
+	text-align: center;
+}
+
+.main_nav li {
+	width: 24%;
+	display: inline-block;
+	text-align: center;
+	margin: 0 4%;
+	position: relative;
+	min-height: 90px;
+}
+
+.main_nav li a {
+	background-color: #0439ba;
+	padding: 20px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	font-size: 32px;
+	color: #c4332a;
+	font-weight: 700;
+	transition: all ease .5s;
+	box-shadow: 4px 4px 4px black;
+}
+
+.main_nav li a:hover {
+	text-decoration: none;
+	background-color: #862219;
+	color: #0439ba;
+}
+
+
+
+
+
+
+
+
+
+/*
+Content
+*/
+
+	/* 
+		Box 1
+				*/
+
+}
+.row {
+	margin-bottom: 20px;
+}
+.outer {
+	padding: 25px;
+}
+.red-box-container {
+	background-color: #fc0700;
+	padding: 20px;
+	box-shadow: 6px 6px 6px #000;
+	position: relative;
+}
+
+.red-box-inner-container {
+	background-color: #711614;
+	padding: 10px;
+	box-shadow: 10px -10px 0px #9f2022;
+}
+
+.red-box-inner-container img {
+	border: 3px solid #9f2022;
+}
+
+.text-wrap {
+	background-color: #711614;
+	text-align: center;
+	padding: 50px 0;
+}
+
+.text-wrap h2 {
+	font-weight: 500;
+	text-transform: uppercase;
+	color: #fff;
+	letter-spacing: .2em;
+	margin: 0;
+
+}
+
+/*
+Footer
+*/
+
+.footer {
+	text-align: center;
+	background-color: #0439ba;
+
+}
+
+.footer li {
+	width: 25%;
+	display: inline-block;
+	text-align: center;
+	margin: 0 ;
+	position: relative;
+	min-height: 90px;
+
+}
+
+.twitter li {
+	width: 20%;
+}
+
+.twitter img{
+	width: 50%;
+}
+
+.bhs_logo li {
+	width: 100%;
+}
+
+.bhs_logo img {
+	background-color: #c4332a;
+	padding: 20px 40px 70px 40px;
+	width: 100%;
+}
+
+.facebook li {
+	width: 40%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
