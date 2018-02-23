@@ -155,7 +155,7 @@ Footer
 	text-align: center;
 	margin: 0 ;
 	position: relative;
-	min-height: 90px;
+	
 
 }
 
@@ -164,24 +164,32 @@ Footer
 }
 
 .twitter img{
-	width: 50%;
+	width: 90px;
 }
 
 .bhs_logo li {
 	width: 100%;
+
+	
 }
 
 .bhs_logo img {
 	background-color: #c4332a;
-	padding: 20px 40px 70px 40px;
+	padding: 20px 60px 70px 60px;
 	width: 100%;
+	box-shadow: 6px 6px 6px #000;
+
 }
 
 .facebook li {
 	width: 40%;
 }
 
+.facebook img {
+	width: 150px;
 
+
+}
 
 
 
